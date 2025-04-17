@@ -1,4 +1,7 @@
-authors:
-  given-names: "Aditya Raj"
-title: "Stock-Market-Prediction"
-url: "https://github.com/raj-aditya01/Stock-Market-Prediction/"
+@misc{raj2025stock,
+  author       = {Aditya Raj},
+  title        = {Stock-Market-Prediction},
+  year         = {2025},
+  howpublished = {\url{https://github.com/raj-aditya01/Stock-Market-Prediction/}},
+  note         = {Accessed: 2025-04-17}
+}
